@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/tiago-abraao-94a07025b/recent-activity/all/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=0000FF"</a>
+<a href="https://www.linkedin.com/in/tiago-abraao-94a07025b/recent-activity/all/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
   
 
