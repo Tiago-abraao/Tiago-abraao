@@ -15,7 +15,9 @@
 </p>
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/tiago-abraao-94a07025b/recent-activity/all/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+## Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/tiago-abraao-94a07025b/recent-activity/all/)
 </div>
   
 
@@ -38,3 +40,5 @@
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000FFF&height=120&section=footer"/>****
+
+
