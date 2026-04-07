@@ -36,4 +36,4 @@
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000FFF&height=120&section=footer"/>****        esse é o read.md do meu github, deixe ele mais atrativo
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000FFF&height=120&section=footer"/>
