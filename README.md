@@ -1,39 +1,79 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000FFF&height=120&section=header&text=Tiago+Abraao&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+::: {align="center"}
+![Banner roxo --- Tiago
+Abraão](https://capsule-render.vercel.app/api?type=waving&color=4011B5&height=190&section=header&text=Tiago%20Abra%C3%A3o&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%7C%20Software%20Developer%20in%20Progress&descAlignY=62&descSize=15)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Tiago+Abraao;I'm+from+Brasil,+PB;I'm+Front+End+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-4011B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-abraa/)
+[![GitHub](https://img.shields.io/badge/GitHub-Seguir-242938?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tiago-abraao)
+:::👨‍💻 Sobre mim | About me
+PT-BR
 
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e
+Software Developer em formação. Gosto de aprender na prática, criar projetos
+e entender como a tecnologia pode resolver problemas do dia a dia.
 
+Atualmente, estou fortalecendo minha base em desenvolvimento web e
+programação, além de explorar Python e Inteligência Artificial por
+meio de estudos e projetos práticos.
 
+EN
 
+Hi! I'm a Systems Analysis and Development student and an aspiring
+software developer. I enjoy learning by building, creating projects, and
+exploring how technology can solve real-world problems.
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tiago-abraao&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-## Conecte-se comigo
-<div align="center">  
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/tiago-abraao-94a07025b/recent-activity/all/)
-</div>
-  
-
-### Skills and Tools:
-
-![Html](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF4500)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=FF4500)&nbsp;
+I'm currently strengthening my foundations in web development and
+programming while exploring Python and Artificial Intelligence
+through hands-on learning and projects.
+🧰 Tecnologias e ferramentas | Tech stack
+Desenvolvimento web | Web development
 
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tiago-abraao}/count.svg" /></p> 
-<br></div>
-  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000FFF&height=120&section=footer"/>
+
+Programação e IA | Programming & AI
+
+
+
+Ferramentas | Tools
+
+
+
+Algumas tecnologias estão em fase de estudo e prática. | Some
+technologies are currently part of my learning journey.
+
+🚀 Projetos em destaque | Featured projects
+🤖 TopTech AI --- Agente virtual de atendimento
+Projeto de agente de atendimento para uma loja fictícia de eletrônicos.
+A aplicação trabalha com identificação de solicitações e consulta de
+pedidos fictícios, servindo como laboratório para aprender Python e
+conceitos de IA.
+
+Tecnologia principal | Main technology: Python
+
+Ver repositório | View
+repository
+📅 Habit Flow --- Aplicação de hábitos
+Projeto voltado ao acompanhamento de hábitos e à prática de
+desenvolvimento de aplicações.
+
+Detalhes | Details: consulte o repositório para ver as tecnologias
+e funcionalidades atuais.
+
+Ver repositório | View
+repository
+📊 GitHub em números | GitHub at a glance
+::: {align="center"}
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=Tiago-abraao&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117)
+
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-abraao&layout=compact&hide_border=true&title_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117)
+:::🌐 Vamos nos conectar | Let's connect
+- LinkedIn:
+  linkedin.com/in/tiago-abraa
+- GitHub:
+  github.com/Tiago-abraao
+::: {align="center"}
+*Aprendendo, construindo e evoluindo um projeto de cada vez.* *Learning,
+building, and growing one project at a time.*
+:::
