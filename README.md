@@ -1,79 +1,230 @@
-::: {align="center"}
-![Banner roxo --- Tiago
-Abraão](https://capsule-render.vercel.app/api?type=waving&color=4011B5&height=190&section=header&text=Tiago%20Abra%C3%A3o&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%7C%20Software%20Developer%20in%20Progress&descAlignY=62&descSize=15)
+<div align="center">
+
+![Banner roxo --- Tiago Abraão](https://capsule-render.vercel.app/api?type=waving&color=4011B5&height=190&section=header&text=Tiago%20Abra%C3%A3o&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%7C%20Software%20Developer%20in%20Progress&descAlignY=62&descSize=15)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-4011B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-abraa/)
 [![GitHub](https://img.shields.io/badge/GitHub-Seguir-242938?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tiago-abraao)
-:::👨‍💻 Sobre mim | About me
-PT-BR
 
-Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e
-Software Developer em formação. Gosto de aprender na prática, criar projetos
-e entender como a tecnologia pode resolver problemas do dia a dia.
+</div>
 
-Atualmente, estou fortalecendo minha base em desenvolvimento web e
-programação, além de explorar Python e Inteligência Artificial por
-meio de estudos e projetos práticos.
+---
 
-EN
+## 👨‍💻 Sobre mim | About me
 
-Hi! I'm a Systems Analysis and Development student and an aspiring
-software developer. I enjoy learning by building, creating projects, and
-exploring how technology can solve real-world problems.
+**PT-BR**  
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor de software em formação. Gosto de aprender na prática, criar soluções reais e entender como a tecnologia resolve problemas do dia a dia.
 
-I'm currently strengthening my foundations in web development and
-programming while exploring Python and Artificial Intelligence
-through hands-on learning and projects.
-🧰 Tecnologias e ferramentas | Tech stack
-Desenvolvimento web | Web development
+Atualmente, estou aprofundando meus conhecimentos em **Python**, **SQLite** e **Inteligência Artificial (Agentes de IA)** por meio de cursos, bootcamps e projetos práticos.
 
+**EN**  
+Hi! I'm a Systems Analysis and Development student and an aspiring software developer. I enjoy learning by building, creating projects, and exploring how technology solves real-world problems.
 
+I'm currently strengthening my skills in **Python**,**SQLite** and **Artificial Intelligence (AI Agents)** through hands-on learning and bootcamps.
 
+---
 
-Programação e IA | Programming & AI
+## 🧰 Tecnologias e Ferramentas | Tech Stack
 
+### Desenvolvimento Web & Programação
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js" alt="Linguagens e Web" />
+</p>
 
+### Banco de Dados & Infraestrutura
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,linux,bash" alt="Banco de dados e Linux" />
+</p>
 
-Ferramentas | Tools
+### Ferramentas & Ambientes
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" alt="Ferramentas" />
+</p>
 
+> *Algumas tecnologias estão em fase constante de estudo e prática.*
 
+---
 
-Algumas tecnologias estão em fase de estudo e prática. | Some
-technologies are currently part of my learning journey.
+## 🚀 Projetos em Destaque | Featured Projects
 
-🚀 Projetos em destaque | Featured projects
-🤖 TopTech AI --- Agente virtual de atendimento
-Projeto de agente de atendimento para uma loja fictícia de eletrônicos.
-A aplicação trabalha com identificação de solicitações e consulta de
-pedidos fictícios, servindo como laboratório para aprender Python e
-conceitos de IA.
+### 🤖 TopTech AI — Agente Virtual de Atendimento
+Projeto de agente inteligente para uma loja de eletrônicos. A aplicação identifica solicitações e consulta pedidos, servindo como laboratório para aplicação de Python e conceitos práticos de IA.
+- **Stack:** Python, Inteligência Artificial
+- 🔗 [Ver repositório](https://github.com/Tiago-abraao/TopTech-AI) *(ajuste com o link real do repo)*
 
-Tecnologia principal | Main technology: Python
+### 📅 Habit Flow — Aplicação de Gestão de Hábitos
+Aplicação focada no acompanhamento diário de hábitos e na prática de arquitetura e lógica de programação.
+- **Stack:** Desenvolvimento Web, Banco de Dados
+- 🔗 [Ver repositório](https://github.com/Tiago-abraao/Habit-Flow) *(ajuste com o link real do repo)*
 
-Ver repositório | View
-repository
-📅 Habit Flow --- Aplicação de hábitos
-Projeto voltado ao acompanhamento de hábitos e à prática de
-desenvolvimento de aplicações.
+---
 
-Detalhes | Details: consulte o repositório para ver as tecnologias
-e funcionalidades atuais.
+## 📊 GitHub em Números | GitHub at a Glance
 
-Ver repositório | View
-repository
-📊 GitHub em números | GitHub at a glance
-::: {align="center"}
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=Tiago-abraao&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tiago-abraao&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-abraao&layout=compact&hide_border=true&title_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
+</div>
 
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-abraao&layout=compact&hide_border=true&title_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117)
-:::🌐 Vamos nos conectar | Let's connect
-- LinkedIn:
-  linkedin.com/in/tiago-abraa
-- GitHub:
-  github.com/Tiago-abraao
-::: {align="center"}
-*Aprendendo, construindo e evoluindo um projeto de cada vez.* *Learning,
-building, and growing one project at a time.*
-:::
+---
+
+## 🌐 Vamos nos conectar | Let's connect
+
+- **LinkedIn:** [linkedin.com/in/tiago-abraa](<div align="center">
+
+![Banner roxo --- Tiago Abraão](https://capsule-render.vercel.app/api?type=waving&color=4011B5&height=190&section=header&text=Tiago%20Abra%C3%A3o&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%7C%20Software%20Developer%20in%20Progress&descAlignY=62&descSize=15)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-4011B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-abraa/)
+[![GitHub](https://img.shields.io/badge/GitHub-Seguir-242938?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tiago-abraao)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim | About me
+
+**PT-BR**  
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor de software em formação. Gosto de aprender na prática, criar soluções reais e entender como a tecnologia resolve problemas do dia a dia.
+
+Atualmente, estou aprofundando meus conhecimentos em **Java**, **Python**, **Banco de Dados (PostgreSQL)** e **Inteligência Artificial (Agentes de IA)** por meio de cursos, bootcamps da DIO e projetos práticos.
+
+**EN**  
+Hi! I'm a Systems Analysis and Development student and an aspiring software developer. I enjoy learning by building, creating projects, and exploring how technology solves real-world problems.
+
+I'm currently strengthening my skills in **Java**, **Python**, **Databases (PostgreSQL)**, and **Artificial Intelligence (AI Agents)** through hands-on learning and bootcamps.
+
+---
+
+## 🧰 Tecnologias e Ferramentas | Tech Stack
+
+### Desenvolvimento Web & Programação
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js" alt="Linguagens e Web" />
+</p>
+
+### Banco de Dados & Infraestrutura
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,linux,bash" alt="Banco de dados e Linux" />
+</p>
+
+### Ferramentas & Ambientes
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" alt="Ferramentas" />
+</p>
+
+> *Algumas tecnologias estão em fase constante de estudo e prática.*
+
+---
+
+## 🚀 Projetos em Destaque | Featured Projects
+
+### 🤖 TopTech AI — Agente Virtual de Atendimento
+Projeto de agente inteligente para uma loja de eletrônicos. A aplicação identifica solicitações e consulta pedidos, servindo como laboratório para aplicação de Python e conceitos práticos de IA.
+- **Stack:** Python, Inteligência Artificial
+- 🔗 [Ver repositório](https://github.com/Tiago-abraao/TopTech-AI) *(ajuste com o link real do repo)*
+
+### 📅 Habit Flow — Aplicação de Gestão de Hábitos
+Aplicação focada no acompanhamento diário de hábitos e na prática de arquitetura e lógica de programação.
+- **Stack:** Desenvolvimento Web, Banco de Dados
+- 🔗 [Ver repositório](https://github.com/Tiago-abraao/Habit-Flow) *(ajuste com o link real do repo)*
+
+---
+
+## 📊 GitHub em Números | GitHub at a Glance
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tiago-abraao&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-abraao&layout=compact&hide_border=true&title_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+## 🌐 Vamos nos conectar | Let's connect
+
+- **LinkedIn:** [linkedin.com/in/tiago-abraa](<div align="center">
+
+![Banner roxo --- Tiago Abraão](https://capsule-render.vercel.app/api?type=waving&color=4011B5&height=190&section=header&text=Tiago%20Abra%C3%A3o&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%7C%20Software%20Developer%20in%20Progress&descAlignY=62&descSize=15)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-4011B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-abraa/)
+[![GitHub](https://img.shields.io/badge/GitHub-Seguir-242938?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tiago-abraao)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim | About me
+
+**PT-BR**  
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor de software em formação. Gosto de aprender na prática, criar soluções reais e entender como a tecnologia resolve problemas do dia a dia.
+
+Atualmente, estou aprofundando meus conhecimentos em **Java**, **Python**, **Banco de Dados (PostgreSQL)** e **Inteligência Artificial (Agentes de IA)** por meio de cursos, bootcamps da DIO e projetos práticos.
+
+**EN**  
+Hi! I'm a Systems Analysis and Development student and an aspiring software developer. I enjoy learning by building, creating projects, and exploring how technology solves real-world problems.
+
+I'm currently strengthening my skills in **Java**, **Python**, **Databases (PostgreSQL)**, and **Artificial Intelligence (AI Agents)** through hands-on learning and bootcamps.
+
+---
+
+## 🧰 Tecnologias e Ferramentas | Tech Stack
+
+### Desenvolvimento Web & Programação
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js" alt="Linguagens e Web" />
+</p>
+
+### Banco de Dados & Infraestrutura
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,linux,bash" alt="Banco de dados e Linux" />
+</p>
+
+### Ferramentas & Ambientes
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" alt="Ferramentas" />
+</p>
+
+> *Algumas tecnologias estão em fase constante de estudo e prática.*
+
+---
+
+## 🚀 Projetos em Destaque | Featured Projects
+
+### 🤖 TopTech AI — Agente Virtual de Atendimento
+Projeto de agente inteligente para uma loja de eletrônicos. A aplicação identifica solicitações e consulta pedidos, servindo como laboratório para aplicação de Python e conceitos práticos de IA.
+- **Stack:** Python, Inteligência Artificial
+- 🔗 [Ver repositório](https://github.com/Tiago-abraao/TopTech-AI) *(ajuste com o link real do repo)*
+
+### 📅 Habit Flow — Aplicação de Gestão de Hábitos
+Aplicação focada no acompanhamento diário de hábitos e na prática de arquitetura e lógica de programação.
+- **Stack:** Desenvolvimento Web, Banco de Dados
+- 🔗 [Ver repositório](https://github.com/Tiago-abraao/Habit-Flow) *(ajuste com o link real do repo)*
+
+---
+
+## 📊 GitHub em Números | GitHub at a Glance
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tiago-abraao&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-abraao&layout=compact&hide_border=true&title_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+## 🌐 Vamos nos conectar | Let's connect
+
+- **LinkedIn:** [linkedin.com/in/tiago-abraa](tiago-abraao-94a07025b
+)
+- **GitHub:** [github.com/Tiago-abraao](https://github.com/Tiago-abraao)
+
+<div align="center">
+  <sub><i>Aprendendo, construindo e evoluindo um projeto de cada vez. • Learning, building, and growing one project at a time.</i></sub>
+</div>)
+- **GitHub:** [github.com/Tiago-abraao](https://github.com/Tiago-abraao)
+
+<div align="center">
+  <sub><i>Aprendendo, construindo e evoluindo um projeto de cada vez. • Learning, building, and growing one project at a time.</i></sub>
+</div>)
+- **GitHub:** [github.com/Tiago-abraao](https://github.com/Tiago-abraao)
+
+<div align="center">
+  <sub><i>Aprendendo, construindo e evoluindo um projeto de cada vez. • Learning, building, and growing one project at a time.</i></sub>
+</div>
