@@ -32,7 +32,7 @@ I'm currently strengthening my skills in **Python**,**SQLite** and **Artificial 
 
 ### Banco de Dados & Infraestrutura
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,linux" alt="Banco de dados e Linux" />
+  <img src="https://skillicons.dev/icons?i=postgres,linux,SQLite" alt="Banco de dados e Linux" />
 </p>
 
 ### Ferramentas & Ambientes
@@ -57,18 +57,3 @@ Aplicação focada no acompanhamento diário de hábitos e na prática de arquit
 - 🔗 [Ver repositório](https://github.com/Tiago-abraao/Habit-Flow) *(ajuste com o link real do repo)*
 
 ---
-
-## 📊 GitHub em Números | GitHub at a Glance
-
-
-
-## 🌐 Vamos nos conectar | Let's connect
-
-- **LinkedIn:** [tiago-abraao-94a07025b](<div align="center">
-
-![Banner roxo --- Tiago Abraão](https://capsule-render.vercel.app/api?type=waving&color=4011B5&height=190&section=header&text=Tiago%20Abra%C3%A3o&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%7C%20Software%20Developer%20in%20Progress&descAlignY=62&descSize=15)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-4011B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-abraa/)
-[![GitHub](https://img.shields.io/badge/GitHub-Seguir-242938?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tiago-abraao)
-
-</div>
