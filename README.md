@@ -2,9 +2,7 @@
 
 ![Banner roxo --- Tiago Abraão](https://capsule-render.vercel.app/api?type=waving&color=4011B5&height=190&section=header&text=Tiago%20Abra%C3%A3o&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%7C%20Software%20Developer%20in%20Progress&descAlignY=62&descSize=15)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-4011B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-abraa/)
-[![GitHub](https://img.shields.io/badge/GitHub-Seguir-242938?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tiago-abraao)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-4011B5?style=for-the-badge&logo=linkedin&logoColor=white)](tiago-abraao-94a07025b)
 </div>
 
 ---
